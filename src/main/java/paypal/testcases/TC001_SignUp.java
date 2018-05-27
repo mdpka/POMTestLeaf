@@ -7,9 +7,9 @@ import wdMethods.ProjectMethods;
 
 public class TC001_SignUp extends ProjectMethods {
 	public void setValue() {
-		dataSheetName= "TC003";
-		testCaseName="TC003_CreateLead";
-		testDescription="Create a new Lead";
+		dataSheetName= "TC001_Paypal";
+		testCaseName="TC001_SignUp";
+		testDescription="SignUp as a new user in Paypal";
 		testNodes="Leads";
 		category="Smoke";
 		authors="Deepika";
